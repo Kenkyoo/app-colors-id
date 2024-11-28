@@ -1,6 +1,7 @@
 App Colors ID
 
 App Colors ID es una aplicación web que te permite buscar cualquier color del mundo, ya sea por su código hexadecimal o por su nombre. Combina un servidor Express con un frontend interactivo para ofrecer una experiencia rápida y visualmente atractiva.
+
 Funcionalidades
 
     Búsqueda de colores: Ingresa el nombre de un color (por ejemplo, "Red") o su código hexadecimal (por ejemplo, "#ff0000") para obtener detalles como el nombre y el código del color.
@@ -9,6 +10,7 @@ Funcionalidades
     Portapapeles: Copia fácilmente el código hexadecimal del color buscado con un botón.
 
 Tecnologías utilizadas
+
 Backend
 
     Node.js con Express: Servidor que lee un archivo JSON con datos de colores y los sirve como API.
